@@ -1,4 +1,4 @@
-# 🛍️ Daftar Toko - Project Akhir Pemrograman Web
+# 🛍️ Daftar Toko - Project Akhir Praktikum Pemrograman Web
 
 ## Deskripsi
 
